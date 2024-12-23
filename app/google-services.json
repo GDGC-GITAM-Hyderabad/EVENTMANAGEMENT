@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175817447336",
+    "project_id": "eventgdg-d9b24",
+    "storage_bucket": "eventgdg-d9b24.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175817447336:android:02d35b5d0b6a7c962e2f9d",
+        "android_client_info": {
+          "package_name": "com.example.eventattendancegdg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZBsCGXf2k6IFOJjh11kkJ_fDzQtm0og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
