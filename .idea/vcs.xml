@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Voice-To-Text-Ai" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Voicetotext" vcs="Git" />
   </component>
 </project>
